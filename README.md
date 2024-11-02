@@ -2,7 +2,7 @@
 
 Island R is a 3D survival game developed in Unity. The project is currently under development.
 
-**Physics Systems**
+**Game Mechanics**
 
 - Character Movement and Gravity
 - AI Movements
